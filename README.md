@@ -14,6 +14,7 @@ Welcome to the NumPy GitHub repo! We are super excited to have you. Here, you wi
 ## Dear Data
 
 - [`the_notebook.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/01_the_notebook.ipynb)
+- [`the_notebook_hint.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/01_the_notebook_hint.ipynb)
 - [`import.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/02_import.ipynb)
 - [`notifications.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/03_notifications.ipynb)
 - [`population.ipynb`](https://github.com/codedex-io/numpy/blob/main/1-dear-data/04_population.ipynb)
